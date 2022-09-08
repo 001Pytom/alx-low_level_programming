@@ -2,7 +2,7 @@
 /**
  * main - An entry point
  *
- * Description: prints the phrase "Programming is like building a multilingual puzzle"
+ * Description: "Programming is like building a multilingual puzzle"
  * Return: 0 if exited and non_zero if otherwise
  */
 int main(void)
