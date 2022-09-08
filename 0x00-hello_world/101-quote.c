@@ -2,8 +2,6 @@
 #include <unistd.h>
 /**
  * main - prints out last paart of a code to standard error
- *
- * Description: still the ame as the first description
  * return: 1 if successful
  */
 int main(void)
