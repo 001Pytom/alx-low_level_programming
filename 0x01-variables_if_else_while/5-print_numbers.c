@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - entry point
- * @i: number to be checked
  *
  * Description: prints all numbers
  * from 0 to 9
