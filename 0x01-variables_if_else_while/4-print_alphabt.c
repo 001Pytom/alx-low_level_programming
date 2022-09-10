@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
  * main - my entry point
- * letter: my main variable
+ * @letter: my main variable
  *
  * all leters and excludes q and e
- * Return: 0 always. 
  */
 int main(void)
 {
