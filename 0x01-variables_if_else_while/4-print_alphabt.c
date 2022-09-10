@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
  * main - my entry point
- * @my_letter: my main variable
+ * letter: my main variable
  *
- * its excludes q and e from
- * standard letters
+ * all leters and excludes q and e
  * Return: 0 always. 
  */
 int main(void)
