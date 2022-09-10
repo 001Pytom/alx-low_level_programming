@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - my entry point
- * @letter: first declaration
+ * main - My entry point
  *
- * Description: all leters and excludes q and e
+ * Description: All leters and excludes q and e
+ * Return: Always 0
  */
 int main(void)
 {
