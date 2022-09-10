@@ -2,8 +2,8 @@
 /**
  * main - entry point
  *
- * Description: its prints all 
- * hexadecimalnumbers
+ * Description: its prints all
+ * hexadecimal numbers
  * Return: 0 always
  */
 int main(void)
