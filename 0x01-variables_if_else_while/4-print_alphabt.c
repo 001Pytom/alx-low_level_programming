@@ -5,7 +5,7 @@
  *
  * its excludes q and e from
  * standard letters
- * Return: 0 always 
+ * Return: 0 always. 
  */
 int main(void)
 {
@@ -15,6 +15,5 @@ int main(void)
 		if (letter != 'q' && letter != 'e')
 			putchar(letter);
 	putchar('\n');
-	
 	return (0);
 }
