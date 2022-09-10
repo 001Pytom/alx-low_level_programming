@@ -12,7 +12,7 @@ int main(void)
 	char my_letter;
 
 	for (my_letter = 'a'; my_letter <= 'z'; my_letter++)
-		if (my_letter != 'q' and my_letter != 'e')
+		if ((my_letter != 'q') and (my_letter != 'e'))
 			putchar(my_letter);
 
 	putchar('\n');
