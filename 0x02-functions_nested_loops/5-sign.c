@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int print_sign - prints the sign of a given number 
+ * print_sign - prints the sign of a given number
  * @n: the interger to be tested
  *
  * Return: 1, 0, -1 when greater than 0, if zero, less zero respectively
