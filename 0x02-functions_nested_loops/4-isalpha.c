@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * _isalpha - checks if its a letter,lower or uppercase
  *@c: the params im testing
