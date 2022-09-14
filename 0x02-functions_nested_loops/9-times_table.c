@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * times_table - times table from 0 
+ * times_table - times table from 0
  *
  * Return: 0 always
  */
