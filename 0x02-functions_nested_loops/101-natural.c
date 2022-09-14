@@ -15,9 +15,9 @@ int main(void)
 	while (i < 1024)
 	{
 		if (i % 3 == 0)
-			tot++;
+			tot += i;
 		else if (i % 5 == 0)
-			tot++;
+			tot += i;
 
 		i++;
 	}
