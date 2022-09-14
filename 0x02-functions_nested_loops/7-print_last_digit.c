@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * print_last_digit - it prints the last digit of a number
  * @n: the integer to be tested
