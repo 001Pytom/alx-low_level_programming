@@ -15,8 +15,8 @@ void more_numbers(void)
 			if (num >= 10 && num <= 14)
 			{
 				_putchar((num / 10) + '0');
-				_putchar((num % 10) + '0');
 			}
+				_putchar((num % 10) + '0');
 		}
 	}
 	_putchar('\n');
