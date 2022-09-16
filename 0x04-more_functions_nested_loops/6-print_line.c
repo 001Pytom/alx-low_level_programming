@@ -3,7 +3,8 @@
  * print_line - draws a straight line
  * @n: the entry
  *
- * Return: 0
+ * Description: it draws a straight line in the terminal
+ * Return: void
  */
 void print_line(int n)
 {
