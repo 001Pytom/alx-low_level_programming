@@ -1,9 +1,8 @@
 #include "main.h"
 /**
  * print_line - draws a straight line
- * @n: the entry
+ * @n: the length of line
  *
- * Description: it draws a straight line in the terminal
  * Return: void
  */
 void print_line(int n)
