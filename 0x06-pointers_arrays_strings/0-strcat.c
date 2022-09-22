@@ -2,7 +2,7 @@
 /**
  * _strcat - it concatenates twoo strings
  * @dset: The output
- * @src:the input
+ * @src: the input
  *
  * Return: dest
  */
