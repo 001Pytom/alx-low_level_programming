@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strcat - concatenate 2 strings
+ * _strncat - concatenate 2 strings
  * @dest: input
  * @src: input
  * @n: integer
