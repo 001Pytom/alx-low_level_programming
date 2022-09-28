@@ -1,6 +1,6 @@
 #include"main.h"
 /**
- * _sqrt-recursion - the sqr of a number
+ * _sqrt_recursion - the sqr of a number
  * @n: number
  *
  * Return: int
