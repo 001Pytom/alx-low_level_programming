@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - writes the char 
+ * main -> writes the char 
  * @argc: params
  * @argv: an array
  *
