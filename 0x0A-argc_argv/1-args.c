@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
  * main - writes the char 
- * @c: the char to print
- *
- * Return: 1 on success
+ * @argc:params
+ * @argv: an array
+ * Return: 0 on success
  */
-int _putchar(char c)
+int main(int argc, char *argv[] __attribute__((unused)))
 {
-	return (write(1, &c, 1));
+	printf("%d\n", argc - 1);
+	return (0);
 }
