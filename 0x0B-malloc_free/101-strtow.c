@@ -12,6 +12,7 @@ int len(char *str)
 	if (str != NULL)
 	{
 		while (str[len])len++;
+
 	}
 	return (len);
 }
