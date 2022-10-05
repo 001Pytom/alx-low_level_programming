@@ -39,8 +39,7 @@ int num_words(char *str)
 		else
 		{
 			i++;
-		}
-		
+		}	
 	}
 	return (words);
 }
