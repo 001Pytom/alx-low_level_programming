@@ -40,10 +40,7 @@ int num_words(char *str)
 		{
 			i++;
 		}
-		else
-		{
-			i++;
-		}
+		
 	}
 	return (words);
 }
