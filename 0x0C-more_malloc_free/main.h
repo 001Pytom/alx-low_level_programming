@@ -17,4 +17,4 @@ void multiply(char* s1, char* s2);
 void errors(void);
 int _strlen(char *s);
 
-#endifi
+#endif
