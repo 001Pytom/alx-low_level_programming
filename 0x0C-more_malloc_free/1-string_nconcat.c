@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * string_nconcat - concatentes 2 strings
  * @s1: first str
