@@ -1,7 +1,7 @@
 
 #include "main.h"
 /**
- * _memsert - copy char
+ * _memset - copy char
  * @s: str
  * @b: input
  * @n: bytes
